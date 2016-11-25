@@ -1,8 +1,11 @@
 # Validador_cpf_cnpj_em_java
 
 ## Author: Wanderlei Silva do Carmo
+
 # Como usar a biblioteca:
-## copie o arquivo ValidaCPF_CNPJ.jar para a pasta lib de seu projeto e adicione o jar em seu projeto
+
+## Copie o arquivo ValidaCPF_CNPJ.jar que está na pasta lib deste projeto para a pasta lib de seu projeto; Adicione-o em seu projeto (adicionar jar).
+
 ## Exemplo:
 
 ### Validar CPF:
