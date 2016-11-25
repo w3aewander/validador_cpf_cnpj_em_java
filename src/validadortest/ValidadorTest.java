@@ -19,7 +19,7 @@ public class ValidadorTest {
     public static void main(String[] args) {
         // TODO code application logic here 
 
-        if  ( Validador.validaCPF("828.993.207- 34")) {
+        if  ( Validador.validaCPF("999.999.999-99")) {
             System.out.println("CPF Validado com sucesso.");
         } else {
 
